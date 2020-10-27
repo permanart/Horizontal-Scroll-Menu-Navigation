@@ -1,0 +1,19 @@
+.hr-nav .nav-container {
+   display: flex;
+   overflow-x: auto;
+   align-items: center;
+
+   max-width: 48em;
+   margin: 1rem auto;
+   background-color: #7f53ac;
+   background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
+
+}
+
+.hr-nav .nav-item {
+   flex: 0 0 auto;
+   padding: 8px 10px;
+   margin-right: 1rem;
+   text-decoration: none;
+   color: #fff;
+}
